@@ -1,5 +1,5 @@
 # Terraform AWS EC2 Infrastructure
-- **this repo for aws ec2 instance for Devops Redit-clone project**
+- **this repo for aws ec2 instance for Devops Redit-clone project** : https://github.com/Hamzaakk/a-reddit-clone-gitops
 
 This project provisions an AWS EC2 instance with a specified configuration using Terraform. The EC2 instance is preconfigured to set up Jenkins and SonarQube using a user-provided installation script.
 
