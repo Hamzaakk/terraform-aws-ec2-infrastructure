@@ -43,12 +43,14 @@ This project provisions an AWS EC2 instance with a specified configuration using
 ```bash
 git clone https://github.com/Hamzaakk/terraform-aws-ec2-infrastructure.git
 cd terraform-aws-ec2-infrastructure
-
+```
 #### Usage:
 ```bash
 terraform init
-
+```
 ```bash
 terraform plan
+```
 ```bash
 terraform apply
+```
